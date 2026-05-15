@@ -197,4 +197,4 @@ Pesquisa desenvolvida no âmbito da **Universidade Federal do Pará (UFPA)**.
   * **Hugo Leonardo** — hugosantos@ufpa.br
   * **David Galhego** — david.galhego@icen.ufpa.br
   * **Matheus Morais de Brito** - matheus.moraes.brito@itec.ufpa.br
-  * **Erick**
+  * **Erick Mamede Silva da Costa** - erick.costa@itec.ufpa.br
